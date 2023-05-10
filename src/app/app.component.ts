@@ -7,4 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'buoi1';
+  myName: string = "lê văn Tiến";
+  myage :number = 20;
+  status: boolean = true;
 }
